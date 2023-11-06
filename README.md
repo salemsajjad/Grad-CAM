@@ -5,19 +5,19 @@ Grad-CAM algorithm is used for the CNN classification part of our agricultural s
 
 Here are some GradCAM outputs:
 
-For Mung bean defects:
+# Mung bean defects:
+![2023-6-14-18-12-41DARHAM--~109_7-35-50-632--TOP_0--0](https://github.com/salemsajjad/Grad-CAM/assets/31271355/0a395ecc-b44b-4eef-be26-0e0b1a5fbd54)
 
-![Uploading 2023-6-14-18-12-41DARHAM--~109_7-35-50-632--TOP_0--0.jpg…]()
+![2023-6-14-18-12-41DARHAM--~109_7-38-22-665--TOP_0--0](https://github.com/salemsajjad/Grad-CAM/assets/31271355/861d54dd-ac40-4452-a018-39cb523a6c98)
 
-![Uploading 2023-6-14-18-12-41DARHAM--~109_7-38-22-665--TOP_0--0.jpg…]()
+![2023-6-14-18-12-41DARHAM--~125_7-41-2-192--TOP_1--0](https://github.com/salemsajjad/Grad-CAM/assets/31271355/91388087-3850-4a53-8b68-0b44bd9e8650)
 
-![Uploading 2023-6-14-18-12-41DARHAM--~125_7-41-2-192--TOP_1--0.jpg…]()
+![2023-6-14-18-12-41DARHAM--~155_7-52-5-201--TOP_1--0](https://github.com/salemsajjad/Grad-CAM/assets/31271355/6987ae29-d177-4c8d-8a6d-6e6a254e9312)
 
-![Uploading 2023-6-14-18-12-41DARHAM--~155_7-52-5-201--TOP_1--0.jpg…]()
+![2023-6-14-18-12-41DARHAM--~1029_8-14-3-894--TOP_0--0](https://github.com/salemsajjad/Grad-CAM/assets/31271355/7ca6d94f-cfbf-4d0e-8fc7-f5795a34a91b)
 
-![Uploading 2023-6-14-18-12-41DARHAM--~1029_8-14-3-894--TOP_0--0.jpg…]()
 
-For Catalyst defects:
+# Catalyst defects:
 
 ![~2_12-2-1-522 TOP_CAM_2_image](https://github.com/salemsajjad/Grad-CAM/assets/31271355/da20f673-92d0-4f2e-a237-0cc0c9560083)
 
@@ -27,7 +27,8 @@ For Catalyst defects:
 
 ![~194_15-35-53-203 TOP_CAM_1_image](https://github.com/salemsajjad/Grad-CAM/assets/31271355/90cb3967-1c88-42ad-8672-905570f9c85b)
 
-For Black-eyed pea defects:
+
+# Black-eyed pea defects:
 
 ![0--Accept--~34_13-26-47-668--DOWN_0](https://github.com/salemsajjad/Grad-CAM/assets/31271355/85c1839d-fb76-4a67-bdb0-c9bcdeeee979)
 

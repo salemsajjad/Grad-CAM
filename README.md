@@ -3,7 +3,7 @@ This is my Python script and I find classification issues in my CNN networks wit
 
 Grad-CAM algorithm is used for the CNN classification part of our agricultural sorter.
 
-Here are some GradCAM outputs:
+Here are some Grad-CAM outputs:
 
 # Mung bean defects:
 ![2023-6-14-18-12-41DARHAM--~109_7-35-50-632--TOP_0--0](https://github.com/salemsajjad/Grad-CAM/assets/31271355/0a395ecc-b44b-4eef-be26-0e0b1a5fbd54)
